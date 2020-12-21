@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "kumarweb-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "kumar"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "Balan!@#4"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "bkr-web1000-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "bkr-webapp-sql"
     }
   }
 }
